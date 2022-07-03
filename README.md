@@ -1,5 +1,5 @@
 ### Hi there 👋 
-### I am Sahil Sharma and welcome to my world.
+### I am Sahil Sharma and welcome to my profile.
 
 <!--
 **sharma-sahil/sharma-sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
