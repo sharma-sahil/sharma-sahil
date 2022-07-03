@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+### I am Sahil Sharma and welcome to my world.
 
 <!--
 **sharma-sahil/sharma-sahil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Just trying to figure out how to be a developer
+
+- 📫 How to reach me:
+  - **LinkedIn :-** https://www.linkedin.com/in/sahil-sharma-829b19b0/
+  - **Email :-** sahilsharma7595@gmail.com
