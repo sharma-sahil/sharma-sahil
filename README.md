@@ -20,4 +20,3 @@ Just trying to figure out how to be a developer
 
 - 📫 How to reach me:
   - **LinkedIn :-** https://www.linkedin.com/in/sahil-sharma-829b19b0/
-  - **Email :-** sahilsharma7595@gmail.com
