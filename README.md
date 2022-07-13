@@ -18,5 +18,7 @@ Here are some ideas to get you started:
 
 Just trying to figure out how to be a developer
 
+- **Personal Blog:-** https://sharma-sahil.github.io/ 
+
 - 📫 How to reach me:
   - **LinkedIn :-** https://www.linkedin.com/in/sahil-sharma-829b19b0/
