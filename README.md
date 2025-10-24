@@ -16,8 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Just trying to figure out how to be a developer
-
 - **Personal Blog:-** https://thesahilsharma.in/ 
 
 - 📫 How to reach me:
